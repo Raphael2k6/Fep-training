@@ -11,8 +11,8 @@ function App() {
           <p>Lets go</p>
         </div>
         <div className="container-right">
-          {/* <LoginPage /> */}
-          <Text />
+          <LoginPage />
+          {/* <Text /> */}
         </div>
       </div>
     </div>
